@@ -1758,11 +1758,13 @@ input, select, textarea {
 			width: 48px;
 			height: 48px;
 			background: #f00;
+			margin-top: -30px;
 		}
 
 			.image.avatar48 img {
-				width: 48px;
-				height: 48px;
+				width: 85px;
+				height: 110px;
+				
 			}
 
 		.image.fit {
